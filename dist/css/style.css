@@ -96,7 +96,7 @@ a:hover {
     /* margin-bottom: 20px; */
 }
 .instruction-content {
-    /* padding: 10px; */
+     padding: 10px; 
 }
 .heading {
 
@@ -104,7 +104,8 @@ a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
 }
 
 .instructionHighlight {
